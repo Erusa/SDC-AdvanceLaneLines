@@ -2,7 +2,7 @@
 My own Project from SDC Udacity Course (Project 2). This code can recognize and draw lane line roads on a video, with a curvature of 1-2km
 
 0. Readme
-1. writeup --> Writeup-P2-Images.html
+1. writeup --> WriteUp/P2-Images.md
 2. code --> P2-Images.ipynb, P2-Videos.ipynb
 3. output images --> output_images/
 4. output video ---> output_videos/
